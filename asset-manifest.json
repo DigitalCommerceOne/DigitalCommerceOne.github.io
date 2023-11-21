@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.bc09cd7d.js",
+    "main.js": "./static/js/main.6216fbea.js",
     "static/js/787.2ccee6dc.chunk.js": "./static/js/787.2ccee6dc.chunk.js",
     "static/media/publicidadbancodetrabajo.png": "./static/media/publicidadbancodetrabajo.27cfdb1e6815bac8a6a7.png",
     "static/media/bannerapp.png": "./static/media/bannerapp.e1a7f45a4206ecf02ae5.png",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
     "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.bc09cd7d.js.map": "./static/js/main.bc09cd7d.js.map",
+    "main.6216fbea.js.map": "./static/js/main.6216fbea.js.map",
     "787.2ccee6dc.chunk.js.map": "./static/js/787.2ccee6dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bc09cd7d.js"
+    "static/js/main.6216fbea.js"
   ]
 }
